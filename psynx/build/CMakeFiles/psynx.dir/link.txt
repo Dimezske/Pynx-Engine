@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/psynx.dir/link.d CMakeFiles/psynx.dir/test.cpp.o CMakeFiles/psynx.dir/src/raygui_impl.cpp.o -o psynx  /usr/local/lib/libraylib.a -lm -lpthread -ldl -lrt -lGL -lX11
